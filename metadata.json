@@ -1,0 +1,6 @@
+{
+  "name": "Harini M Portfolio",
+  "description": "Black and gold luxury developer portfolio for Harini M featuring interactive particle physics, 3D tilt effects, system telemetry HUDs, curated projects, and ATS-compliant CV verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
